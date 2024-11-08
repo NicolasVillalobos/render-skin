@@ -1,0 +1,20 @@
+{
+  "name": "render-skin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon -L bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "nodemon": "^3.1.7"
+  }
+}
